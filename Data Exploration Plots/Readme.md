@@ -25,7 +25,7 @@ A few things stand out to me, even from this basic plot.
 
 2. Hernandez tends to get quite a few pitches of the plate for strikes. While this particular graph does not go into detail regarding the type of strike (swinging vs. looking), it is still significant as it highlights his ability to expand the strike zone
 
-![img01](https://github.com/tddavid89/r_batstats/blob/master/Data%20Exploration%20Plots/img06.png?raw=true
+![img01](https://github.com/tddavid89/r_batstats/blob/master/Data%20Exploration%20Plots/img06.png?raw=true)
 
 ---
 
